@@ -57,4 +57,9 @@ VCI benchmark contains 2,172 immoral images to proceed with more general and ext
 
 ## Citation
 ```
+@article{jeong2022zero,
+  title={Zero-shot Visual Commonsense Immorality Prediction},
+  author={Jeong, Yujin and Park, Seongbeom and Moon, Suhong and Kim, Jinkyu},
+  year={2022}
+}
 ```
